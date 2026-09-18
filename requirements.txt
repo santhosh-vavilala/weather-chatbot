@@ -1,0 +1,5 @@
+langgraph==1.2.11
+langchain-core==1.6.3
+fastapi==0.141.1
+uvicorn==0.53.0
+httpx[socks]==0.28.1
